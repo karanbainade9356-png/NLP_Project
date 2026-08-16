@@ -9,5 +9,5 @@ Expected outcomes:
 5. Explainable and trustworthy AI sol
 
 6. Contributers:
-7. Karan Bainade(@karanbainade9356-png)
-8. Ashraf Ahmed(@AshrafGalaxy)
+   Karan Bainade([@karanbainade9356-png](https://github.com/karanbainade9356-png)
+   Ashraf Ahmed([@AshrafGalaxy](https://github.com/AshrafGalaxy))
